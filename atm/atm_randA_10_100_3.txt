@@ -1,0 +1,11 @@
+a	K
+ATM0	        31
+ATM1	        31
+ATM2	        39
+ATM3	        31
+ATM4	        35
+ATM5	        66
+ATM6	        33
+ATM7	        38
+ATM8	        36
+ATM9	        31

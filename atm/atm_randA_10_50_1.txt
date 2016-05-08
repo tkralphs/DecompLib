@@ -1,0 +1,11 @@
+a	K
+ATM0	        16
+ATM1	        17
+ATM2	        20
+ATM3	        22
+ATM4	        19
+ATM5	        18
+ATM6	        24
+ATM7	        20
+ATM8	        20
+ATM9	        25
